@@ -1,0 +1,6 @@
+type	organism	cell	genotype	platform	dimentions.Features	dimentions.Samples
+GSE31150_series_matrix	RNA	Mus musculus	tissue: Whole pancreas	Rkip-1 KO:WT	GPL1261	45101	6
+GSE74729_series_matrix	SRA	Homo sapiens	tissue: A375 tumor	phenotype: vemurafenib-resistant-phenotype: vemurafenib-sensitive	GPL15433	0	9
+GSE42753_series_matrix	RNA	Mus musculus	strain background: B6	RKIP-transgenic:GRK-Inh-transgenic:WT	GPL1261	45101	6
+GSE47366_series_matrix	RNA	Homo sapiens	cell line: MDA-MB-231 1833	MDA-MB-231:S153E-RKIP	GPL15829	1364	6
+GSE47378_series_matrix	RNA	Homo sapiens	cell line: MDA-MB-231 1833	control:S153E-RKIP	GPL570	54675	6
