@@ -1,23 +1,23 @@
 #RKIP-dependent Autophagy and Oxidative Stress Responses
 #List of related genes
-Gene_name Gene_symbol Other_symbols Notes
-Phosphatidylethanolamine Binding Protein 1  PEBP1 RKIP
-Kelch Like ECH Associated Protein 1 KEAP1 KLHL19/INRF2
-Nuclear Factor, Erythroid 2 Like 2  NFE2L2  NRF2
-NAD(P)H Quinone Dehydrogenase 1 NQO1    oxidatant
-Squestosome 1 SQSTM1  p62 KEAP1 degradation complex
-Autophagy related gene 7  ATG7    
-Sestrin 2 SESN2 phosphorylation of p62 s403
-Unc-51 Like Autophagy Actiating Kinase 1  ULK1  ATG1A/UNC51 Phosphorylation of p62 S403
-Mechanic Target of Rapamycin  mTOR    mTORC1 component
-Heme Oxygenase  HO1   Oxidatant
-Tumor Protein P53 tp53  p53 Transcription Factor of PEBP1 and sestrin 2
-Culin-3 CUL-3   KEAP1 degradation complex
-Mitogen-Activated Protein Kinase 8  JNK MAPK8 
-Regulatory Associated Protein of mTORC1 RPTOR   mTORC1 component
-AKT1 subtrate 1 PRAS40    mTORC1 component 
-Ribisomal Protein S6 Kinase B1  S6K1  Downstream of p62
-MAP kinase p38 Alpha  MAPK14  p38a (alpha)  mTORC1 component
-MAP1-LC3A MAP1-LC3A
-MAP1-LC3B MAP1-LC3B
-MAP1-LC3C MAP1-LC3C
+Gene_name	Gene_Symbol	Other_Symbol	Notes
+Phosphatidylethanolamine Binding Protein 1	PEBP1	RKIP	N
+Kelch Like ECH Associated Protein 1	KEAP1	KLHL19/INRF2	N
+Nuclear Factor Erythroid 2 Like 2	NFE2L2	NRF2	N
+NAD(P)H Quinone Dehydrogenase 1	NQO1	NMOR1	oxidatant
+Squestosome 1	SQSTM1	p62	Keap1 degradation complex
+Autophagy Related 7	ATG7	APG7L	n
+Sestrin 2	SESN2	SES2	phosphorylation of p62 S403
+Unc-51 Like Autophagy Activating Kinase 1	ULK1	ATG1A/UNC51	phosphorylation of p62 S403
+Mechanistic Target Of Rapamycin	mTOR	FRAP1	mTOR1 component
+Heme Oxygenase 1	HO1	HMOX1D	oxidatant
+Tumor Protein P53 	tp53	p53	transcription factor of RKIP and sesn2
+Culin-3	CUL3	KIAA0617	Keap1 degradation complex
+Mitogen-Activated Protein Kinase 8	JNK	MAPK8	n
+Regulatory Associated Protein Of MTOR Complex 1/Raptor	RPTOR	MIP1	mTOR1 component
+AKT1 Substrate 1	PRAS40	AKT1S1	mTOR1 component
+Ribosomal Protein S6 Kinase B1	S6K1	RPS6KB1	dowstream of p62
+MAP Kinase P38 Alpha	MAPK14	p38a	mTOR1 component
+MAP1-LC3A	MAP1-LC3A	LC3A	n
+MAP1-LC3B	MAP1-LC3B	LC3B	n
+MAP1-LC3C	MAP1-LC3C	LC3C	n
